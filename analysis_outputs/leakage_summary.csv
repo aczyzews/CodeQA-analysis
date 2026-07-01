@@ -1,0 +1,9 @@
+metryka,count,pct
+answer_exact_in_prompt,1087,1.4329216045558206
+answer_exact_in_code,4279,5.640728193095084
+answer_token_overlap_prompt >= 0.75,1045,1.3775557283908304
+answer_token_overlap_code >= 0.75,3709,4.889334159427359
+potential_prompt_leakage,1296,1.7084327502339867
+potential_extractive_from_code,5487,7.233156250411948
+boolean_answers,1302,1.7163421611146996
+yes_no_questions,1254,1.6530668740689962

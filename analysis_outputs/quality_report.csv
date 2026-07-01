@@ -1,0 +1,16 @@
+obszar,metryka,wartość,odsetek_%
+duplicates,duplicated_source_context_hash,45139,59.503816290749945
+duplicates,duplicated_prompt_hash,39674,52.29966121356727
+duplicates,duplicated_qa_hash,15678,20.667290631302812
+duplicates,duplicated__id,0,0.0
+duplicates,duplicated_prompt_id,0,0.0
+id_consistency,_id != prompt_id,0,0.0
+missing,missing__id,0,0.0
+missing,missing_dataset_id,0,0.0
+missing,missing_prompt,0,0.0
+missing,missing_prompt_id,0,0.0
+missing,missing_reference_output,0,0.0
+missing,missing_source_context,0,0.0
+missing,missing_source_metadata,0,0.0
+missing,missing_tags,0,0.0
+missing,missing_task_type,0,0.0

@@ -1,0 +1,5 @@
+baseline,predykcja,dokładność_proxy,uwagi
+majority_answer_all_records,Yes,0.00926719308190195,Exact match przy stałej odpowiedzi dla wszystkich rekordów
+majority_boolean_answer_only_boolean_records,yes,0.5399385560675883,Baseline tylko dla rekordów z odpowiedziami boolean
+prompt_leakage_upper_bound_proxy,answer visible/high-overlap in prompt,0.017084327502339867,"Odsetek rekordów, gdzie odpowiedź może być odgadnięta z promptu"
+extractive_from_code_upper_bound_proxy,answer visible/high-overlap in code,0.07233156250411948,"Odsetek rekordów, gdzie odpowiedź wygląda na ekstrakcyjną z kodu"
